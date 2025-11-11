@@ -1,0 +1,12 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "tokens": {
+    "USDC":  { "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238", "decimals": 6 },
+    "WETH9": { "address": "0xFfF9976782d46CC05630D1f6eBAb18b2324d6B14", "decimals": 18 }
+  },
+  "contracts": {
+    "UNIVERSAL_ROUTER": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "PERMIT2":          "0x000000000022d473030f116ddee9f6b43ac78ba3"
+  }
+}
