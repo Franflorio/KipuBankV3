@@ -50,10 +50,11 @@ Se integran:
 
 
 ## 🧪 Tests
+```bash
 forge install
 forge build
 forge test -vv
-
+```
 
 ## 🔐 .env de ejemplo
 ```bash
